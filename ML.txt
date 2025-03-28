@@ -1,0 +1,26 @@
+Online available datasets:
+--------------------------
+
+3-Complete Linear Regression:
+==> Linear Regression ML Implementation: BOSTON HOUSE PRICING DATASET, 
+==> Linear Regression Practicals: BOSTON HOUSE PRICING DATASET
+
+5-Step By Step Project Implementation With LifeCycle Of ML Projects:
+==> 4.0-Multiple Linear Regression: CALIFORNIA HOUSING DATASET
+
+7-SVM:
+==> Support Vector Regression Implementation: TIPS DATASET
+
+8-Naive Baye's:
+==> IRIS DATASET
+
+10-Decision Tree:
+==> Decision Tree Classifier Practical Implementation: IRIS DATASET
+==> Diabetes Prediction Using Decision Tree Regressor: DIABETES DATASET
+
+16-PCA:
+==> Principal Component Analysis (PCA) Implementation: BREAST CANCER DATASET
+
+18-Hierarichal Clustering:
+==> Hierarichal Clustering Implementation: IRIS DATASET
+
